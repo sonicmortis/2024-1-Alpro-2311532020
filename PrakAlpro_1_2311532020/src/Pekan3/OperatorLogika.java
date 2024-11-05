@@ -1,4 +1,4 @@
-package Pekan3;
+package Pekan3; 
 
 public class OperatorLogika {
 

@@ -1,4 +1,4 @@
-package Pekan3; 
+package Pekan3;
 
 import java.util.Scanner;
 public class OperatorAritmatika {
@@ -31,4 +31,3 @@ public class OperatorAritmatika {
 	}
 
 }
-
